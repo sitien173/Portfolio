@@ -44,7 +44,7 @@ const Hero = () => {
             className="hero-image-container"
           >
             <div className="hero-image-wrapper">
-              <img src="/Avata.jpg" alt="Tien Ngo" className="hero-image" />
+              <img src="/Portfolio/Avata.jpg" alt="Tien Ngo" className="hero-image" />
             </div>
           </motion.div>
         </div>
